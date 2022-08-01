@@ -1,1 +1,2 @@
-#belajar git
+#belajargit
+Belajar git pemula
