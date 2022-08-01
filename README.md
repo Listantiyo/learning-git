@@ -1,2 +1,2 @@
 #belajargit
-Belajar git pemula
+Belajar git pemulaa
