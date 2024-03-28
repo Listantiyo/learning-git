@@ -1,2 +1,0 @@
-#belajargit
-Belajar git pemulaa
